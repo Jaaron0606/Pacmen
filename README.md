@@ -1,7 +1,7 @@
 # Bouncing Pacmen across the screen using Javascript
 
 # Description
-A class project using HTML, CSS and Javascript to Pacmen bounce across the screen. 
+A class project using HTML, CSS and Javascript to have Pacmen bounce across the screen. 
  
 # Installation
 There isn't any installation needed, simply download the HTML file and open it in your browser. 
